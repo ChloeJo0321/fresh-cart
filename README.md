@@ -1,5 +1,5 @@
-# Grocery App
-A simple grocery app built with React and Node.js.
+# Fresh Cart
+A simple grocery web application built with React and Express.js. (Updated version of my previous grocery app).
 
 ## 🛠 Tech Stack
 - React
