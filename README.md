@@ -50,3 +50,7 @@ npm run dev
 ### 3. Cart
 <img width="3660" height="1761" alt="image" src="https://github.com/user-attachments/assets/50ea69db-25e2-4295-b96b-3cb117963b46" />
 
+
+## 👤 Author
+Chloe Jo
+GitHub: https://github.com/ChloeJo0321
